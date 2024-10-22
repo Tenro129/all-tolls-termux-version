@@ -1,4 +1,4 @@
-# All-tools-termux-version
+# all-tolls-termux-version
 
 pkg install cowsay
 
